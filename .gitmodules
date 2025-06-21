@@ -1,0 +1,6 @@
+[submodule "candl"]
+	path = candl
+	url = https://github.com/periscop/candl.git
+[submodule "clan"]
+	path = clan
+	url = https://github.com/periscop/clan.git
