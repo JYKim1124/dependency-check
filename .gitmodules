@@ -4,3 +4,6 @@
 [submodule "clan"]
 	path = clan
 	url = https://github.com/periscop/clan.git
+[submodule "openscop"]
+	path = openscop
+	url = https://github.com/periscop/openscop.git
