@@ -4,3 +4,6 @@
 [submodule "openscop"]
 	path = openscop
 	url = https://github.com/periscop/openscop.git
+[submodule "candl"]
+	path = candl
+	url = https://github.com/JYKim1124/candl.git
