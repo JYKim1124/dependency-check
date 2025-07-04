@@ -1,6 +1,3 @@
-[submodule "candl"]
-    path = candl
-    url = git@github.com:JYKim1124/candl.git
 [submodule "clan"]
 	path = clan
 	url = https://github.com/periscop/clan.git
